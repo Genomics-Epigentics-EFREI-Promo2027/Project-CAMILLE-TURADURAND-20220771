@@ -119,4 +119,4 @@ The R Markdown document follows these steps:
 
 ## Author
 
-Camille Tura–-Durand — Student ID: 20220771
+Camille Tura--Durand - Student ID: 20220771
